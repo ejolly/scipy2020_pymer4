@@ -1,0 +1,8 @@
+name: pymer4-dev-environment
+channels:
+  - turbach
+  - main
+  - r
+  - conda-forge
+dependencies:
+  - pymer4
