@@ -1,2 +1,4 @@
 *.DS*
 *.ipynb_cache
+demo_ascii
+*.ipynb_checkpoints
